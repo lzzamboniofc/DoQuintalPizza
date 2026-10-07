@@ -37,4 +37,4 @@ dist/       build local, ignorada pelo Git
 
 ## Telefone e WhatsApp
 
-Quando o número estiver disponível, edite `public/assets/js/config.js` e execute `npm run build` novamente.
+Quando o número estiver disponível, edite `site/assets/js/config.js` e execute `npm run build` novamente.
