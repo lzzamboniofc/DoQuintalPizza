@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Acrescente o domínio oficial ao publicar:
+# Sitemap: https://www.seudominio.com.br/sitemap.xml
